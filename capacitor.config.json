@@ -1,0 +1,7 @@
+{
+  "appId": "az.kapital.app",
+  "appName": "Kapital",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#0D1320" }
+}
